@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Write a Python function that parses an AWS ARN (Amazon Resource Name) and returns a dictionary containing the partition, service, region, account-id, and resource components. For example, 'arn:aws:s3:us-east-1:123456789012:bucket/my-bucket' should be parsed into its constituent parts."
+  },
+  {
+    "task": "Create a JSON object representing an AWS S3 bucket policy that allows public read access to all objects in a bucket named 'my-public-assets', but only for the GetObject action."
+  },
+  {
+    "task": "Write a regular expression that validates AWS Security Group rule descriptions to ensure they contain only alphanumeric characters, spaces, hyphens, underscores, periods, colons, and forward slashes, with a maximum length of 255 characters."
+  }
+]
